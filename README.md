@@ -6,4 +6,5 @@ This repository contains scripts and supporting data neccessary to reproducing m
 
 - 10/26/2018: Added function to estimate plot-level mixture normal parameters from digital elevation models. 
 
-
+## Acknowledgments
+We thank the support staff at Borlaug Institute for South Asia in India including Yogesh Gautam, Manish Kumar, Avadhesh Kumar; CIMMYT Pakistan Majid Nadeem and Dr. Makhdoom Hussain; and CIMMYT Mexico Dr. Suchismita Mondal.  We appreciate the assistance of colleagues at Kansas State University including Shuangye Wu, Mark Lucas, Richard Brown, Haley Ahlers, Jared Crain, and Byron Evers; Scott Chapman, CSIRO, Australia.  This work was supported by the National Science Foundation (NSF) Plant Genome Research Program (PGRP) (Grant No. IOS-1238187), the Kansas Wheat Commission and Kansas Wheat Alliance, the US Agency for International Development (USAID) Feed the Future Innovation Lab for Applied Wheat Genomics (Cooperative Agreement No. AID-OAA-A-13-00051), and by the NIFA International Wheat Yield Partnership (Grant No. 2017-67007-25933/project accession no. 1011391) from the USDA National Institute of Food and Agriculture.  The opinions expressed herein are those of the author(s) and do not necessarily reflect the views of the U.S. Agency for International Development, the U.S. National Science Foundation, or the U.S. Department of Agriculture. 
