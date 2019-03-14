@@ -1,5 +1,5 @@
 # Phenomics-Enabled-Digital-Lodging
-R scripts and supporting data for phenomics enabled genetic dissection of lodging in wheat. 
+R scripts and supporting data for high-throughput phenotyping enabled genetic dissection of lodging in wheat. 
 
 ## Introduction
 This repository contains scripts and supporting data neccessary to reproduce my work on digital quantification of crop lodging through unmanned aerial systems (UAS) or drone based phenotyping in wheat. This work has been accepted as a journal article in Frontiers in Plant Science (doi: 10.3389/fpls.2019.00394), and is part of my PhD dissertation at Kansas State University (Under the guidance of Dr. Jesse Poland). The raw data associated with this project can be accessed here: https://doi.org/10.6084/m9.figshare.6151127. I'm currently cleaning up some of the scripts so it will be made available in batches. Following are the project updates:
